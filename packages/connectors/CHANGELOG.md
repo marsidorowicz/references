@@ -1,5 +1,11 @@
 # @wagmi/connectors
 
+## 0.3.0
+
+### Minor Changes
+
+- bb1b88c: Add support for Bitski injected wallet
+
 ## 0.2.5
 
 ### Patch Changes
